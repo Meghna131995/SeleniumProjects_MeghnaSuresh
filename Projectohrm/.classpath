@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/webdrivermanager-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/slf4j-simple-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/slf4j-log4j12-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/slf4j-log4j12-1.7.16-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/slf4j-log4j12-1.8.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/slf4j-log4j12-1.7.20-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/httpcore5-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/httpclient5-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/httpcore5-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/httpclient5-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/automationUtilities-pro-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/automationUtilities-pro-1.0 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/91984/Downloads/jars-20221205T104310Z-001/jars/activation-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
